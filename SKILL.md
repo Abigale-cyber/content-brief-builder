@@ -71,7 +71,7 @@ description: 把选定题目整理成结构化创作简报。当用户说"整理
 
 ### Step 4: 输出 Brief
 
-读取 `../_shared/intermediate-format.md` 中 content-brief.md 的格式规范，按格式输出。
+读取 `_shared/intermediate-format.md` 中 content-brief.md 的格式规范，按格式输出。
 
 输出到本地文件：`content-brief-<选题关键词>.md`
 
